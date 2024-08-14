@@ -122,9 +122,6 @@
         <mxCell id="ievZF2CwrjWZiY9o42JL-39" value="DUT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ievZF2CwrjWZiY9o42JL-42" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database_cube;fillColor=#2072B8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="416.3" y="825" width="47" height="52" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
